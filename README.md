@@ -5,7 +5,7 @@
 - 📫 How to reach me chris@vintagehightech.co.uk
 
 I recently decided to start a new career as a software developer. Programming is not completely new to me. Many years ago, 
-I studied Computer Science at school & college, but back then I was programming BASIC and COBOL. Old school! I worked in many 
+I studied computer science at school & college, but back then I was programming BASIC and COBOL. Old school! I worked in many 
 different roles in manufacturing & engineering industries. Parts of my job already involved bits and pieces of code, chiefly 
 writing rules for parametric models using Autodesk’s proprietary ‘iLogic’ language. 
 
